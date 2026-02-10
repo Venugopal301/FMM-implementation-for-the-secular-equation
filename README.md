@@ -11,7 +11,8 @@ secular equations arising in eigenvalue problems.
 ## Usage
 Run the main MATLAB script:
 
-FMM_run.m file
+Run the main script FMM_run.m 
+
 Load "FMM_test_data" matlab data file in to FMM_run.m and run the script.
 
 ## Note 1
