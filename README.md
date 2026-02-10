@@ -9,11 +9,11 @@ secular equations arising in eigenvalue problems.
 - MATLAB R2022b or later
 
 ## Usage
-Run the main MATLAB script:
+Load "FMM_test_data" matlab data file in to FMM_run.m script.
 
-FMM_run.m 
+Run the main MATLAB script: FMM_run.m 
 
-Load "FMM_test_data" matlab data file in to FMM_run.m and run the script.
+
 
 ## Note 1
 Vary number of expansion coefficients pp in FMM_run.m file for obtaining different results.
